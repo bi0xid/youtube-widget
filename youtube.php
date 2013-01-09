@@ -120,7 +120,18 @@ YTB;
 					"http://jp.youtube.com/watch?v=",
 					"http://nl.youtube.com/watch?v=",
 					"http://pl.youtube.com/watch?v=",
-					"http://es.youtube.com/watch?v="
+					"http://es.youtube.com/watch?v=",
+					"https://www.youtube.com/watch?v=", 
+					"https:/youtube.com/watch?v=",
+					"https://br.youtube.com/watch?v=",
+					"https://uk.youtube.com/watch?v=",
+					"https://fr.youtube.com/watch?v=",
+					"https://ie.youtube.com/watch?v=",
+					"https://it.youtube.com/watch?v=",
+					"https://jp.youtube.com/watch?v=",
+					"https://nl.youtube.com/watch?v=",
+					"https://pl.youtube.com/watch?v=",
+					"https://es.youtube.com/watch?v="
 				), 
 				"", 
 				$options['video']
